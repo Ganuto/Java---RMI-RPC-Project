@@ -12,7 +12,7 @@ Por se tratar de um projeto que trabalha com conexões remotas via RMI, é neces
 Devido à redundância, caso um dos servidores que hospedam um serviço caia, outro servidor que possui o mesmo serviço assumirá.
 <p></p>
 Devido ao balanceamento, a cada nova requisição de serviço, é feita uma troca de servidores (através da utilização do conceito de Round-Robin)
-para evitar, de maneira simples, a sobrecarga nos servidores provenientes do serviço requisitado.
+para evitar, de maneira simples, a sobrecarga nos servidores provedores do serviço requisitado.
 <p></p>
 <h3>Classes executáveis:</h3>
 <dl>
