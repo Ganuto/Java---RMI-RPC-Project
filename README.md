@@ -28,4 +28,8 @@ para evitar, de maneira simples, a sobre carga nos servidores provenientes do se
   <dd>Cliente.java</dd>
 </dl>
 <h3>Autores:</h3>
-<li>Ganut0</li>
+<li> 
+  Ganut0 -
+  <a href="mailto:ganuto@hotmail.com">ganuto@hotmail.com</a>
+</li>
+
