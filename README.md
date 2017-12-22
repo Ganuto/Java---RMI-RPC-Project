@@ -9,7 +9,7 @@ Sistema de serviços básicos com servidor de nomes, redundância e balanceament
 O projeto está com a roupagem de um projeto criados na IDE Netbeans.<br>
 Por se tratar de um projeto que trabalha com conexões remotas via RMI, é necessário criar as classes STUBs caso queira executar pelo terminal/prompt.
 <p></p>
-Devida a redundância, caso um dos servidores que hospedam um serviço caia, outro servidor que possui o mesmo serviço assumirá.
+Devidd à redundância, caso um dos servidores que hospedam um serviço caia, outro servidor que possui o mesmo serviço assumirá.
 <p></p>
 Devido ao balanceamento, a cada nova requisição de serviço, é feita uma troca de servidores (através da utilização do conceito de Round-Robin)
 para evitar, de maneira simples, a sobre carga nos servidores provenientes do serviço requisitado.
