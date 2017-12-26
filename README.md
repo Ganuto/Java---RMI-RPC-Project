@@ -3,7 +3,7 @@
 <b>Descrição do projeto:</b></br>
 Sistema de serviços básicos com servidor de nomes, redundância e balanceamento (utilização do conceito de Round-Robin) de servidores feito em RMI Java.
 <img src="https://github.com/Ganuto/Java-Servidores-ServicosRMI/blob/master/ServidorNomes.png?raw=true" alt="SevidorNomes.png">
-<span style="color:grey">Visão macro do funcionamento do projeto</span>
+<span style="color:grey"><i>Visão macro do funcionamento do projeto</i></span>
 <p></p>
 <b>Informações Adicionais:</b></br>
 O projeto está com a roupagem de um projeto criados na IDE Netbeans.<br>
